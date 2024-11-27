@@ -1,5 +1,4 @@
 # Task-management Dashboard📝
-Developed By : franklyn inoma
 
 <img src="img/ico.png" alt="Task-management" width="35" height="35">
 
